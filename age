@@ -1,0 +1,5 @@
+Dim age As Integer
+age = 10
+If age = 10 Then
+  Console.Writeline("Hello")
+End If
